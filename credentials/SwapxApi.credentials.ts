@@ -55,7 +55,7 @@ export class SwapxApi implements ICredentialType {
 
 	test: ICredentialTestRequest = {
 			"request": {
-				"baseURL": "={{ $credentials.baseUrl }}",
+				"baseURL": "={{ $credentials.url }}",
 				"url": "/api/v1/metadata",
 				"method": "GET"
 			}
