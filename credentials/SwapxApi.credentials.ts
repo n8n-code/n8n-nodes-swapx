@@ -10,7 +10,7 @@ export class SwapxApi implements ICredentialType {
 
 	displayName = 'swapx API';
 
-	icon: Icon = { light: 'file:../nodes/Swapx/swapx.svg', dark: 'file:../nodes/Swapx/swapx.dark.svg' };
+	icon: Icon = { light: 'file:../nodes/Swapx/swapx.png', dark: 'file:../nodes/Swapx/swapx.dark.png' };
 
 	documentationUrl = '';
 

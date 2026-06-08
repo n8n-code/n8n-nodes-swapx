@@ -5,7 +5,7 @@ export class Swapx implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'swapx',
 		name: 'N8nDevSwapx',
-		icon: { light: 'file:./swapx.svg', dark: 'file:./swapx.dark.svg' },
+		icon: { light: 'file:./swapx.png', dark: 'file:./swapx.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
