@@ -1,7 +1,7 @@
 {
   "name": "@n8n-dev/n8n-nodes-swapx",
-  "version": "1.0.7",
-  "description": "SwapX decentralized finance platform for token swaps and liquidity provision across multiple blockchain networks",
+  "version": "1.0.8",
+  "description": "SwapX DeFi platform for cross-chain token swaps and liquidity.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-swapx",
   "keywords": [
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "swapx"

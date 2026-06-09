@@ -53,9 +53,18 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | GET Mint Proof, GET Airdrop Proof, GET Partners Proof, GET Partners Proof, GET Partners Proof, GET Founders Proof, GET Token Metadata |
+<details>
+<summary><b>Default</b> (7 operations)</summary>
+
+- Get Mint Proof
+- Get Airdrop Proof
+- Get Partners Proof
+- Get Partners Proof
+- Get Partners Proof
+- Get Founders Proof
+- Get Token Metadata
+
+</details>
 
 ---
 

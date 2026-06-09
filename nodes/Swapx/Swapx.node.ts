@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class Swapx implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'swapx',
+		displayName: 'Swapx',
 		name: 'N8nDevSwapx',
 		icon: { light: 'file:./swapx.png', dark: 'file:./swapx.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'SwapX decentralized finance platform for token swaps and liquidity provision across multiple blockchain networks',
-		defaults: { name: 'swapx' },
+		description: 'SwapX DeFi platform for cross-chain token swaps and liquidity.',
+		defaults: { name: 'Swapx' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

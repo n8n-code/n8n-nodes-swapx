@@ -15,8 +15,8 @@ export const defaultDescription: INodeProperties[] = [
 			},
 			"options": [
 				{
-					"name": "Mint Proof Api V 1 Proof Mint Address Get",
-					"value": "Mint Proof Api V 1 Proof Mint Address Get",
+					"name": "Mint Proof API v1 Proof Mint Address Get",
+					"value": "Mint Proof API v1 Proof Mint Address Get",
 					"action": "Mint Proof",
 					"description": "Mint Proof",
 					"routing": {
@@ -27,8 +27,8 @@ export const defaultDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Airdrop Proof Api V 1 Proof Airdrop Address Get",
-					"value": "Airdrop Proof Api V 1 Proof Airdrop Address Get",
+					"name": "Airdrop Proof API v1 Proof Airdrop Address Get",
+					"value": "Airdrop Proof API v1 Proof Airdrop Address Get",
 					"action": "Airdrop Proof",
 					"description": "Airdrop Proof",
 					"routing": {
@@ -39,8 +39,8 @@ export const defaultDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Partners Proof Api V 1 Proof Partners Address Get",
-					"value": "Partners Proof Api V 1 Proof Partners Address Get",
+					"name": "Partners Proof API v1 Proof Partners Address Get",
+					"value": "Partners Proof API v1 Proof Partners Address Get",
 					"action": "Partners Proof",
 					"description": "Partners Proof",
 					"routing": {
@@ -51,8 +51,8 @@ export const defaultDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Partners Proof Api V 1 Proof Frax Address Get",
-					"value": "Partners Proof Api V 1 Proof Frax Address Get",
+					"name": "Partners Proof API v1 Proof Frax Address Get",
+					"value": "Partners Proof API v1 Proof Frax Address Get",
 					"action": "Partners Proof",
 					"description": "Partners Proof",
 					"routing": {
@@ -63,8 +63,8 @@ export const defaultDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Partners Proof Api V 1 Proof Beets Address Get",
-					"value": "Partners Proof Api V 1 Proof Beets Address Get",
+					"name": "Partners Proof API v1 Proof Beets Address Get",
+					"value": "Partners Proof API v1 Proof Beets Address Get",
 					"action": "Partners Proof",
 					"description": "Partners Proof",
 					"routing": {
@@ -75,8 +75,8 @@ export const defaultDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Founders Proof Api V 1 Proof Founders Address Get",
-					"value": "Founders Proof Api V 1 Proof Founders Address Get",
+					"name": "Founders Proof API v1 Proof Founders Address Get",
+					"value": "Founders Proof API v1 Proof Founders Address Get",
 					"action": "Founders Proof",
 					"description": "Founders Proof",
 					"routing": {
@@ -87,8 +87,8 @@ export const defaultDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Token Metadata Api V 1 Metadata Token Id Get",
-					"value": "Token Metadata Api V 1 Metadata Token Id Get",
+					"name": "Token Metadata API v1 Metadata Token ID Get",
+					"value": "Token Metadata API v1 Metadata Token ID Get",
 					"action": "Token Metadata",
 					"description": "Token Metadata",
 					"routing": {
@@ -115,7 +115,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Mint Proof Api V 1 Proof Mint Address Get"
+						"Mint Proof API v1 Proof Mint Address Get"
 					]
 				}
 			}
@@ -132,7 +132,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Mint Proof Api V 1 Proof Mint Address Get"
+						"Mint Proof API v1 Proof Mint Address Get"
 					]
 				}
 			}
@@ -151,7 +151,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Airdrop Proof Api V 1 Proof Airdrop Address Get"
+						"Airdrop Proof API v1 Proof Airdrop Address Get"
 					]
 				}
 			}
@@ -168,7 +168,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Airdrop Proof Api V 1 Proof Airdrop Address Get"
+						"Airdrop Proof API v1 Proof Airdrop Address Get"
 					]
 				}
 			}
@@ -187,7 +187,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Partners Proof Api V 1 Proof Partners Address Get"
+						"Partners Proof API v1 Proof Partners Address Get"
 					]
 				}
 			}
@@ -204,7 +204,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Partners Proof Api V 1 Proof Partners Address Get"
+						"Partners Proof API v1 Proof Partners Address Get"
 					]
 				}
 			}
@@ -223,7 +223,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Partners Proof Api V 1 Proof Frax Address Get"
+						"Partners Proof API v1 Proof Frax Address Get"
 					]
 				}
 			}
@@ -240,7 +240,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Partners Proof Api V 1 Proof Frax Address Get"
+						"Partners Proof API v1 Proof Frax Address Get"
 					]
 				}
 			}
@@ -259,7 +259,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Partners Proof Api V 1 Proof Beets Address Get"
+						"Partners Proof API v1 Proof Beets Address Get"
 					]
 				}
 			}
@@ -276,7 +276,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Partners Proof Api V 1 Proof Beets Address Get"
+						"Partners Proof API v1 Proof Beets Address Get"
 					]
 				}
 			}
@@ -295,7 +295,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Founders Proof Api V 1 Proof Founders Address Get"
+						"Founders Proof API v1 Proof Founders Address Get"
 					]
 				}
 			}
@@ -312,7 +312,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Founders Proof Api V 1 Proof Founders Address Get"
+						"Founders Proof API v1 Proof Founders Address Get"
 					]
 				}
 			}
@@ -331,13 +331,13 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Token Metadata Api V 1 Metadata Token Id Get"
+						"Token Metadata API v1 Metadata Token ID Get"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Token Id",
+			"displayName": "Token ID",
 			"name": "token_id",
 			"required": true,
 			"default": 0,
@@ -348,7 +348,7 @@ export const defaultDescription: INodeProperties[] = [
 						"Default"
 					],
 					"operation": [
-						"Token Metadata Api V 1 Metadata Token Id Get"
+						"Token Metadata API v1 Metadata Token ID Get"
 					]
 				}
 			}

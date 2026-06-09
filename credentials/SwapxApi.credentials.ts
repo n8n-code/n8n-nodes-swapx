@@ -8,7 +8,7 @@ import type {
 export class SwapxApi implements ICredentialType {
 	name = 'N8nDevSwapxApi';
 
-	displayName = 'swapx API';
+	displayName = 'Swapx API';
 
 	icon: Icon = { light: 'file:../nodes/Swapx/swapx.png', dark: 'file:../nodes/Swapx/swapx.dark.png' };
 
@@ -22,7 +22,7 @@ export class SwapxApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'https://api.example.com',
-			description: 'The base URL of your swapx API server',
+			description: 'The base URL of your Swapx API server',
 		},
 		{
 			displayName: 'API Key',
